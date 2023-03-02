@@ -15,3 +15,4 @@ var App = /** @class */ (function () {
 // creating instance of the App class.
 var obj = new App();
 obj.helloWorld();
+obj.userName();

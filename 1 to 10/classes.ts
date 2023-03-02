@@ -12,3 +12,4 @@ class App {
 // creating instance of the App class.
 let obj = new App();
 obj.helloWorld();
+obj.userName();
