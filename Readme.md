@@ -11,7 +11,6 @@
 
 - tsc hello_world.ts -watch
 
-
 ## Playlist
 
 - https://www.youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx

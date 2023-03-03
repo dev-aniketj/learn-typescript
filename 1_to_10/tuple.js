@@ -1,4 +1,5 @@
-var role = [
+"use strict";
+let role = [
     "aniket",
     22,
     true,
