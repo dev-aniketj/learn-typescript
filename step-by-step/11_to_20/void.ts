@@ -2,7 +2,7 @@
 function printData() {
   console.log("hello world");
 }
-function todayDate() {
+function todayDate(): void {
   const date = new Date();
   const today =
     date.getDate() +
